@@ -16,7 +16,7 @@ Create a 2D sword (in pixel-art style) based on a sketch and text prompt. The ge
 
 - ✅ **Prompt + sketch input** via Gradio interface
 - ✅ **Sprite generation** using ControlNet + PixelArt SDXL
-- ❌ **Unity C# code generation** attempted via StarCoder/Gwen2 but not successful
+- ❌ **Unity C# code generation** attempted via StarCoder/Gwen2/LLama2 but not successful
 - 🔍 **Flavor text and animation generation** were researched but not implemented
 
 ## Challenges
