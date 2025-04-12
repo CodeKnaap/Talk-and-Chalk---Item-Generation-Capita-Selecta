@@ -19,7 +19,7 @@ Create a 2D sword (in pixel-art style) based on a sketch and text prompt. The ge
 - ❌ **Unity C# code generation** attempted via StarCoder/Gwen2 but not successful
 - 🔍 **Flavor text and animation generation** were researched but not implemented
 
-## ⚠Challenges
+## Challenges
 
 - Code generation proved difficult without structured constraints
 - LLMs often reproduced prompts verbatim or generated invalid code
